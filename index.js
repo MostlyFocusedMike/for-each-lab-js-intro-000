@@ -10,5 +10,7 @@ function iterate(callback) {
   return arr;
 }
 
-
+function doToArray(array,callback) {
+  
+}
 
