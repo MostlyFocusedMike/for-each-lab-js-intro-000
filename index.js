@@ -1,3 +1,4 @@
-function iterativeLog(array, callback) {
-  array.forEach(callback);
+function iterativeLog(array) {
+  array.forEach((value,index, array) => );
 }
+
