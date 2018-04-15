@@ -4,7 +4,7 @@ function iterativeLog(array) {
   });
 }
 
-function iterate() {
+function iterate(callback) {
   
 }
 
