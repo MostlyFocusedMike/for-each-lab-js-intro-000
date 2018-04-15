@@ -5,6 +5,6 @@ function iterativeLog(array) {
 }
 
 function iterate(callback) {
-  
+  let arr = ["a","b","c","d","e","f"]
 }
 
